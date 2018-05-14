@@ -8,6 +8,8 @@ pyyaml = "*"
 diceware-utils = "*"
 
 [dev-packages]
+requests = "*"
+"bs4" = "*"
 
 [requires]
 python_version = "3.6"
